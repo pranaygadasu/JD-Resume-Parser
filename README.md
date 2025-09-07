@@ -50,7 +50,7 @@ The system also calculates an **ATS (Applicant Tracking System) Score** so users
 git clone https://github.com/your-username/resume-job-matcher.git
 cd resume-job-matcher
 
-### 2. Backend Setup (FastAPI)
+2. Backend Setup (FastAPI)
 cd backend
 python -m venv .venv
 source .venv/bin/activate   # (Linux/Mac)
@@ -114,3 +114,4 @@ Fuzzy match %
 ✅ Fine-tune transformer models for more accurate semantic similarity.
 
 ✅ Multi-resume bulk processing (HR recruiter use-case).
+
