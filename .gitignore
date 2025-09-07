@@ -1,0 +1,31 @@
+# === Python cache & compiled files ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Virtual environment ===
+.venv/
+env/
+venv/
+
+# === OS-specific files ===
+.DS_Store
+Thumbs.db
+
+# === Logs & temp files ===
+*.log
+*.tmp
+
+# === Jupyter Notebook checkpoints ===
+.ipynb_checkpoints/
+
+# === Large data files (optional) ===
+*.zip
+*.tar
+*.tar.gz
+
+# === Model files (optional, if too big to send) ===
+*.h5
+*.pkl
+*.joblib

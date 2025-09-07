@@ -1,0 +1,30 @@
+# Backend Framework 
+fastapi            # for building backend APIs
+uvicorn            # server to run FastAPI
+
+# Data Handling & Processing 
+pandas             
+numpy(1.26.4)
+
+# Machine Learning & NLP 
+sentence-transformers  # SBERT for semantic embeddings
+scikit-learn           # Cosine similarity, preprocessing, and ML 
+
+# File Parsing 
+pymupdf            # extract PDF resumes (.pdf)
+python-docx        # extract Word resumes (.docx)
+
+# NLP 
+spacy              # for entity recognition (skills, roles, etc.)
+nltk               # Tokenization, stopword removal, basic NLP 
+
+# File Upload  
+python-multipart   # Handle file uploads in FastAPI
+
+# extras 
+tqdm               
+
+# Frontend 
+React          # Simple, interactive frontend UI
+Html
+CSS
